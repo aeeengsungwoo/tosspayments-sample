@@ -2,7 +2,7 @@
 
 토스페이먼츠 결제연동 샘플 프로젝트입니다.
 
-사용하는 언어를 선택해서 샘플 프로젝트로 빠르게 결제 연동을 시작하세요.
+사용하는 언어를 선택해서 샘플 프로젝트로 빠르게 결제 연동을 시작하세요!
 
 - [Express + React](https://github.com/tosspayments/tosspayments-sample/tree/main/express-react)
 - [Express + Vue](https://github.com/tosspayments/tosspayments-sample/tree/main/express-vue)
